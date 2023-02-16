@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: pizzafrontend
-        image: pcombs007/pizzafrontend:2.0
+        image: pcombs007/pizzafrontend:3.0
         ports:
         - containerPort: 80
         env:
